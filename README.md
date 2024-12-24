@@ -16,7 +16,9 @@ Before you begin, ensure you have the following installed on your system:
 
 Open your terminal or command prompt and run the following command to clone the project repository:
 
-Replace `https://github.com/your-username/your-repository.git` with the actual URL of the GitHub repository.
+```bash
+git clone https://github.com/farroshayray/dragndropfarros.git
+```
 
 Once cloned, navigate to the project directory:
 
