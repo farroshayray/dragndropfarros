@@ -1,0 +1,8 @@
+.draggable-items {
+  background: rgb(46,80,119);
+  background: linear-gradient(171deg, rgba(46,80,119,1) 0%, rgba(77,161,169,1) 27%, rgba(121,215,190,1) 51%, rgba(130,196,233,100) 100%);
+}
+.droppable-area {
+  background: rgb(250,64,50);
+  background: linear-gradient(171deg, rgba(250,64,50,1) 0%, rgba(250,129,47,1) 27%, rgba(250,177,47,1) 51%, rgba(254,243,226,1) 100%);
+}
