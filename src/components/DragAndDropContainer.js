@@ -3,7 +3,7 @@ import { DndProvider } from "react-dnd";
 import { HTML5Backend } from "react-dnd-html5-backend";
 import DraggableItem from "./DraggableItem";
 import DroppableArea from "./DroppableArea";
-import { draggableItems } from "../data"; // Impor data dari file data.js
+import { draggableItems } from "../data";
 import "../styles.css";
 
 const DragAndDropContainer = () => {
